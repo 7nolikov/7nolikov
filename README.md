@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="img/mont.png" alt="banner">
-  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/7nolikov/" target="_blank">Dmitrii Novikov</a></h1>
+  <h1>Hi there, I'm Dmitrii Novikov</a></h1>
   <h3>Senior Java Software Engineer at EPAM Systems</h3>
 </div>
 <div id="socials" align="center">
