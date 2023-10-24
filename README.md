@@ -1,16 +1,33 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="img/mont.png" alt="banner">
+  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/7nolikov/" target="_blank">Dmitrii Novikov</a></h1>
+  <h3>Senior Java Software Engineer at EPAM Systems</h3>
+</div>
+<div id="socials" align="center">
+  <a href="https://www.linkedin.com/in/7nolikov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:7nolikov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
-<!--
-**7nolikov/7nolikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Summary
+- Senior Software Engineer with over **5 years** of experience in backend development (**Java**, **Spring Boot**) of  retail, telecommunications and e-commerce business domains and **3 years** of QA Engineer background.
+- Experience in **Google Cloud** and **Kubernetes** environments and maintaining a **cloud-native** data platform.
+- Implemented a paperless process for sales using QR code scanning, accelerating the process **twice** and reducing costs and increasing income across the entire company network.
+- Bachelor's degree in **Computer Science**.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Key skills
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud">
+
+---
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=7nolikov&style=flat-square&color=blue" alt=""/>
+</div>
