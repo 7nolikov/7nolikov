@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/7nolikov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:7nolikov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
