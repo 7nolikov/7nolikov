@@ -22,8 +22,8 @@
 ---
 
 ## Demo projects
-[Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
-[Spring Cloud Eureka demo project](https://github.com/7nolikov/spring-cloud-example)
+- [Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
+- [Spring Cloud Eureka demo project](https://github.com/7nolikov/spring-cloud-example)
 
 ### 🛠 Key skills
 <div id="skills" align="center">
