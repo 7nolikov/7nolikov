@@ -21,6 +21,9 @@
 - Bachelor's degree in `Computer Science`.
 ---
 
+## Demo projects
+[Spring Cloud Eureka demo project](https://github.com/7nolikov/spring-cloud-example)
+
 ### 🛠 Key skills
 <div id="skills" align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
