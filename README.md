@@ -17,7 +17,7 @@
 ## Summary
 - Senior Software Engineer with over `5 years` of experience in backend development (`Java`, `Spring Boot`) of  retail, telecommunications and e-commerce business domains and `3 years` of QA Engineer background.
 - Experience in `Google Cloud` and `Kubernetes` environments and maintaining a `cloud-native` data platform.
-- Implemented a paperless process for sales using QR code scanning, accelerating the process `twice` and reducing costs and increasing income across the entire company network.
+- Accelerated `twice` a paperless process for sales, significantly reducing operational costs and increasing income across the `20,000` branches company network by integrating QR code scanning technology.
 - Bachelor's degree in `Computer Science`.
 ---
 
