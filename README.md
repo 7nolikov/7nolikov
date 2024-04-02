@@ -22,7 +22,7 @@
 ---
 
 ## CV
-- [My latest CV](https://7nolikov.github.io/cv/)
+- [The latest CV](https://7nolikov.github.io/cv/)
 
 ## Demo projects
 - [Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
