@@ -21,10 +21,10 @@
 - Bachelor's degree in `Computer Science`.
 ---
 
-## CV
+## 📜 CV
 - [The latest CV](https://7nolikov.github.io/cv/)
 
-## Demo projects
+## 🧑‍🎓 Demo projects
 - [Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
 
 ### 🛠 Key skills
