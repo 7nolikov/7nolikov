@@ -15,14 +15,14 @@
 
 
 ## Summary
-- Senior Software Engineer with over `5 years` of experience in backend development (`Java`, `Spring Boot`) of  retail, telecommunications and e-commerce business domains and `3 years` of QA Engineer background.
-- Experience in `Google Cloud` and `Kubernetes` environments and maintaining a `cloud-native` data platform.
+- Senior Software Engineer with over `5 years` of experience in backend development, leveraging Java/Spring Boot within retail, telecommunications and e-commerce business domains and `3 years` of QA Engineer background.
+- Experience in `Google Cloud` / `Kubernetes` environments and maintaining a `cloud-native` data platform.
 - Accelerated `twice` a paperless process for sales, significantly reducing operational costs and increasing income across the `20,000` branches company network by integrating QR code scanning technology.
 - Bachelor's degree in `Computer Science`.
 ---
 
 ## 📜 CV
-- [The latest CV](https://7nolikov.github.io/cv/)
+- [The latest CV](https://7nolikov.github.io/cv/Dmitrii-Novikov-CV.pdf)
 
 ## 🧑‍🎓 Demo projects
 - [Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
