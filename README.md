@@ -5,12 +5,14 @@
 </div>
 <div id="socials" align="center">
   <p>
-    <a href="https://www.linkedin.com/in/7nolikov/" style="margin-right: 40px;">
+    <a href="https://www.linkedin.com/in/7nolikov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://7nolikov.github.io/cv/Dmitrii-Novikov-CV.pdf" style="margin-right: 40px;">
+    &nbsp;
+    <a href="https://7nolikov.github.io/cv/Dmitrii-Novikov-CV.pdf">
       <img src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge" alt="CV">
     </a>
+    &nbsp;
     <a href="mailto:7nolikov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
