@@ -3,15 +3,19 @@
   <h1>Hi there, I'm Dmitrii Novikov</a></h1>
   <h3>Senior Java Software Engineer at EPAM Systems</h3>
 </div>
-<div id="socials" align="center">
+<p>
   <a href="https://www.linkedin.com/in/7nolikov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://7nolikov.github.io/cv/Dmitrii-Novikov-CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge" alt="CV">
   </a>
   &nbsp;
   <a href="mailto:7nolikov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
 
 ## Summary
