@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="img/mont.png" alt="banner">
-  <h1>Hi there, I'm Dmitrii Novikov</a></h1>
+  <h1>Hi there, I'm Dmitrii Novikov</h1>
   <h3>Senior Java Software Engineer at EPAM Systems</h3>
 </div>
 <div id="socials" align="center">
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud">
 </div>
 
