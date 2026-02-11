@@ -35,9 +35,6 @@
 ## 📜 CV
 - [The latest CV](https://7nolikov.github.io/cv/Dmitrii-Novikov-CV.pdf)
 
-## 🧑‍🎓 Demo projects
-- [Test task | Investment recommendation service](https://github.com/7nolikov/recommendation-service)
-
 ### 🛠 Key skills
 <div id="skills" align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
