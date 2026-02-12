@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="img/mont.png" alt="banner">
   <h1>Hi there, I'm Dmitrii Novikov</h1>
-  <h3>Senior Java Software Engineer at EPAM Systems</h3>
+  <h3>Distributed Systems Engineer | Cloud-Native Data Platforms | Go & Java</h3>
 </div>
 <div id="socials" align="center">
   <p>
